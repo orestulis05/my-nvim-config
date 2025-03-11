@@ -28,7 +28,8 @@ require('lazy').setup({
     require 'plugins.alphagreeter',
     require 'plugins.surround',
     require 'plugins.emmet',
-    require 'plugins.liveserver'
+    require 'plugins.liveserver',
+    require 'plugins.conform'  
 })
 
 -- Setting the theme
